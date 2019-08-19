@@ -7,8 +7,8 @@ description: Dear Earth, thanks for visiting!
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-
-page-col: "#ccffff"
+navbar-col: "#ccffff"
+page-col: "#FFFFFF"
 
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
