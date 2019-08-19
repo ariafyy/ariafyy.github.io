@@ -1,6 +1,6 @@
 theme: jekyll-theme-architect
 title: Aria's Website!
-description: Dear Earth, thanks for visiting!
+description: Dear Earth, thanks for visiting.
 
 
 # --- Background colour/image options --- #
@@ -22,3 +22,8 @@ page-col: "#FFFFFF"
 
 #Aria 아영 さくら φ
 #off when busy,ttyl.G calendar scheduling: ariafyy@gmail.com
+
+# Sidebar settings
+sidebar: true                           
+sidebar-about-description: "안녕하세용 こんにちは Hola"
+#sidebar-avatar: /img/avatar-Jack.jpg     #你的大头贴，请使用绝对地址.
