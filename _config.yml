@@ -27,3 +27,13 @@ page-col: "#FFFFFF"
 sidebar: true                           
 sidebar-about-description: "안녕하세용 こんにちは Hola"
 #sidebar-avatar: /img/avatar-Jack.jpg     #你的大头贴，请使用绝对地址.
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+
+
+date_format: "%B %-d, %Y"
+read_time: true
