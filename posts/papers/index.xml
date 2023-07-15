@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Papers on Aria&#39;s Site</title>
+    <link>https://ariafyy.github.io/posts/papers/</link>
+    <description>Recent content in Papers on Aria&#39;s Site</description>
+    <image>
+      <title>Aria&#39;s Site</title>
+      <url>https://ariafyy.github.io/papermod-cover.png</url>
+      <link>https://ariafyy.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ariafyy.github.io/posts/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【Papers】</title>
+      <link>https://ariafyy.github.io/posts/papers/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ariafyy.github.io/posts/papers/papers/</guid>
+      <description>ChatHaruhi: Reviving Anime Character in Reality via Large Language Model(In Processing) 🤖 Analysis and Evaluation of City Urban Traffic.Patent NO.: CN201911373330.4.(Chinese Patent) 💻
+Transportation Coordination and Route Recommendation System. Patent NO.: 201911292359.X.(Chinese Patent) 💻
+Real-time traffic state-driven signal control optimization system and method(Chinese Patent) 💻
+Yaying Fei, Lihua Chen, Xiaozhi Zhang, Wei Zhang. ”Study on the snap-through behavior of bistable plates”. ASME Conference on Smart Materials, Adaptive Structures and Intelligent Systems.</description>
+    </item>
+    
+  </channel>
+</rss>
