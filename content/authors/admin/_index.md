@@ -13,7 +13,7 @@ role: Actively seeking 24Fall PhD position in USA!!!
 
 # # Organizations/Affiliations to show in About widget
 organizations:
-   - name: ❌ Unfished homepage!！！
+   - name: ❌ Unfished homepage!！❌ 
 #     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,11 +22,13 @@ bio: My research interests include LLMs, Language Agents(Multi-Agents) and Multi
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: google-scholar
+  - icon: brands/arxiv
     url: https://scholar.google.com.hk/citations?hl=en&tzom=-480&user=gpQ83ycAAAAJ&sortby=pubdate&view_op=list_works&authuser=1&gmla=AILGF5UJKLEnkNHSwgiGi_9zpqT-Twxjb0vL3wkS2dzR1LL_tOqaBEJQL0aH7VjRRkNrv193J7oB967S3_h5UO9H
     label: Google Schloar
-
-  
+    
+  - icon: icon8-github-90.svg
+    url: "https://github.com/ariafyy/"
+    label: github
 
 
 # Highlight the author in author lists? (true/false)
