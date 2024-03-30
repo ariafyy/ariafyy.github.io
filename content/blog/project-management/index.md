@@ -1,7 +1,7 @@
 ---
 title: 🔥 Paper List 
 summary: check all pubs!
-date: 2023-01-01
+date: 2024-04-01
 authors:
   - admin
 
