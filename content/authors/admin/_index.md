@@ -22,18 +22,10 @@ bio: My research interests include LLMs, Language Agents(Multi-Agents) and Multi
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: github
-    url: 'https://github.com/ariafyy'
-    label: Github
-  - icon: at-symbol
-    url: 'mailto:mitfyy759915983@163.com'
-    label: E-mail
   - icon: google-scholar
     url: https://scholar.google.com.hk/citations?hl=en&tzom=-480&user=gpQ83ycAAAAJ&sortby=pubdate&view_op=list_works&authuser=1&gmla=AILGF5UJKLEnkNHSwgiGi_9zpqT-Twxjb0vL3wkS2dzR1LL_tOqaBEJQL0aH7VjRRkNrv193J7oB967S3_h5UO9H
     label: Google Schloar
-  - icon: arxiv
-    url: https://paperswithcode.com/search?q=author%3AYaying+Fei
-    label: Paper with code
+
   
 
 
