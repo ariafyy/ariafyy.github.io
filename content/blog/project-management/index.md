@@ -1,94 +1,29 @@
 ---
-title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
+title: 🔥 Paper List 
+summary: check all pubs!
+date: 2023-01-01
 authors:
   - admin
-tags:
-  - Hugo Blox
-  - Markdown
+
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+papers,code,demos,etc!
 
-## Ideation
+# Ideation
 
-Hugo Blox supports a Markdown extension for mindmaps.
+- **Data Interpreter**: An LLM Agent For Data Science  [📜paper](https://arxiv.org/abs/2402.18679) [🔍link](https://docs.deepwisdom.ai/main/en/DataInterpreter/) [💻code](https://github.com/geekan/MetaGPT)(34.5k+ stars)
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
+- **ChatHaruhi**: Reviving Anime Character in Reality via Large Language Model (paper) (code)(1.4k+ stars)
 
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
+-InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews. (paper, demo, submitted ACL’24)
+- Does Role-Playing Chatbots Capture the Character Personalities?Assessing Personality Traits for Role-Playing Chatbots(paper) (code) 
+Invited talk about AI Werewolf, an opensource multi-agent project. (link)(Bilibili in Chinese)
+Fei, Yaying, et al. "Study on the snap-through behavior of bistable plates."ASME Conference on Smart Materials, Adaptive Structures and Intelligent Systems. Vol. 50497. American Society of Mechanical Engineers, 2016.(pp. V002T03A010. )
+Lihua C., Yaying Fei, Wei Z., ”Dynamic Model of Nonlinear Plates with Flexoelectricity”. The 12th World Congress on Computational Mechanics and The 6th Asia-Pacific Congress on Computational Mechanics. WCCM-APCOM2016. (Oral Speaker)
+Chen, L., Pan, S., Yaying Fei, et al.Theoretical study of micro/nano-scale bistable plate for flexoelectric energy harvesting. Applied Physics A (2019) 125: 242. https://doi.org/10.1007/s00339-019-2539-3.
 
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-
-## Diagrams
-
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
-
-An example **Gantt diagram**:
-
-    ```mermaid
-    gantt
-    section Section
-    Completed :done,    des1, 2014-01-06,2014-01-08
-    Active        :active,  des2, 2014-01-07, 3d
-    Parallel 1   :         des3, after des1, 1d
-    Parallel 2   :         des4, after des1, 1d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
-    ```
-
-renders as
-
-```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
-
-## Todo lists
-
-You can even write your todo lists in Markdown too:
-
-```markdown
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-```
-
-renders as
-
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-
-## Did you find this page helpful? Consider sharing it 🙌
+ 
+ 
+ 
