@@ -26,11 +26,8 @@ profiles:
     url: https://scholar.google.com.hk/citations?hl=en&tzom=-480&user=gpQ83ycAAAAJ&sortby=pubdate&view_op=list_works&authuser=1&gmla=AILGF5UJKLEnkNHSwgiGi_9zpqT-Twxjb0vL3wkS2dzR1LL_tOqaBEJQL0aH7VjRRkNrv193J7oB967S3_h5UO9H
     label: Google Schloar
     
-  - icon: icon8-github-90.svg
-    url: "https://github.com/ariafyy/"
-    label: github
 
-
+    
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
