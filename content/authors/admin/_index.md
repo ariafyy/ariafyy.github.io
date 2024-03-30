@@ -3,10 +3,6 @@
 title: Yaying Fei
 
 
-# Full name (for SEO)
-first_name: Yaying
-last_name: Fei
-
  
 
 # Is this the primary user of the site?
@@ -30,7 +26,7 @@ profiles:
     url: 'https://github.com/ariafyy'
     label: Github
   - icon: at-symbol
-    url: 'mailto:yayingfei@hotmail.com'
+    url: 'mailto:mitfyy759915983@163.com'
     label: E-mail
   - icon: google-scholar
     url: https://scholar.google.com.hk/citations?hl=en&tzom=-480&user=gpQ83ycAAAAJ&sortby=pubdate&view_op=list_works&authuser=1&gmla=AILGF5UJKLEnkNHSwgiGi_9zpqT-Twxjb0vL3wkS2dzR1LL_tOqaBEJQL0aH7VjRRkNrv193J7oB967S3_h5UO9H
