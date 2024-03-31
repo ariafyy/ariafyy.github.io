@@ -8,7 +8,7 @@ authors:
 
 tags:
   - LLMs
-  - Metahuman
+  - Multi-Agents
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
