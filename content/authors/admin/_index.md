@@ -2,9 +2,6 @@
 # Display name
 title: Yaying Fei
 
-
- 
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -13,16 +10,13 @@ role: Actively seeking 24Fall PhD position in USA!!!
 
 # # Organizations/Affiliations to show in About widget
 organizations:
-   - name: ❌ Unfished homepage!！❌ 
-
+   - name:  
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include LLMs, Language Agents(Multi-Agents) and Multimodality.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-
-
 
 profiles:
   - icon: brands/google
