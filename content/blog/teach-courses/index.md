@@ -20,4 +20,4 @@ Aria in the ✨ Area ✨. Welcome! Dear Earth, thanks for visiting.(〃'▽'〃)
 
 - [🍑 openai Lil’Log](https://lilianweng.github.io/)
 
-- [Andrej Karpathy GitHub]([Andrej Karpathy](https://github.com/karpathy))
+- [Andrej Karpathy GitHub](https://github.com/karpathy)
