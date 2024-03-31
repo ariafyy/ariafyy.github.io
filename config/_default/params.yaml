@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: ''
+    description: 'A highly-customizable Hugo blog theme powered by Hugo Blox Builder.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -36,7 +36,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© licensed under {license}'
+    notice: '© '
     license:
       enable: true
       allow_derivatives: false
