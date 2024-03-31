@@ -11,9 +11,13 @@ image:
   caption: ' '
 ---
 
-Paper with codes.
+Aria in the ✨ Area ✨. Welcome! Dear Earth, thanks for visiting.(〃'▽'〃).
 
 
 ##  🙌
 
-- [LLaMafia](https://github.com/LLaMafia)
+- [Franx Yao's LLaMafia](https://github.com/LLaMafia)
+
+- [🍑 openai Lil’Log](https://lilianweng.github.io/)
+
+- [Andrej Karpathy GitHub]([Andrej Karpathy](https://github.com/karpathy))
