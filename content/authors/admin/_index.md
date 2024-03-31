@@ -14,7 +14,7 @@ role: Actively seeking 24Fall PhD position in USA!!!
 # # Organizations/Affiliations to show in About widget
 organizations:
    - name: ❌ Unfished homepage!！❌ 
-#     url: https://www.stanford.edu/
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include LLMs, Language Agents(Multi-Agents) and Multimodality.
