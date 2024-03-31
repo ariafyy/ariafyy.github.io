@@ -15,12 +15,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include LLMs, Language Agents(Multi-Agents) and Multimodality.
 
-# Social Networking
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-
-
-
-     
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
