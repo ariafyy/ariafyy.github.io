@@ -7,6 +7,7 @@ authors:
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  
 authors:
   - admin
 
@@ -15,11 +16,10 @@ tags:
   - Metahuman
 ---
 
-Welcome 👋
 
-## papers,code,demos,etc!
+## 👋 papers,code,demos...
 
-Please check [**Google Scholar**](https://scholar.google.com.hk/citations?hl=en&tzom=-480&user=gpQ83ycAAAAJ&sortby=pubdate&view_op=list_works&authuser=1&gmla=AILGF5UJKLEnkNHSwgiGi_9zpqT-Twxjb0vL3wkS2dzR1LL_tOqaBEJQL0aH7VjRRkNrv193J7oB967S3_h5UO9H) for a comprehensive list of my publications.
+-[**Google Scholar**](https://scholar.google.com.hk/citations?hl=en&tzom=-480&user=gpQ83ycAAAAJ&sortby=pubdate&view_op=list_works&authuser=1&gmla=AILGF5UJKLEnkNHSwgiGi_9zpqT-Twxjb0vL3wkS2dzR1LL_tOqaBEJQL0aH7VjRRkNrv193J7oB967S3_h5UO9H)
 
 
 - **Data Interpreter**: An LLM Agent For Data Science  [📜paper](https://arxiv.org/abs/2402.18679) [🔍link](https://docs.deepwisdom.ai/main/en/DataInterpreter/) [💻code](https://github.com/geekan/MetaGPT)(**34.5k+ stars**)
@@ -50,9 +50,6 @@ Please check [**Google Scholar**](https://scholar.google.com.hk/citations?hl=en&
 
 - Transportation Coordination and Route Recommendation System. Patent NO.: 201911292359.X.(Chinese Patent)
 [💻](https://zhuanli.tianyancha.com/09dcc46a2df9cc26f7e2483f8df062d1)
-
-
-
 - Real-time traffic state-driven signal control optimization system and method(Chinese Patent)
 [💻](https://zhuanli.tianyancha.com/50886ceeead91f89ca6c9816e6d84759)
 
