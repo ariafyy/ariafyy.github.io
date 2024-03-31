@@ -25,9 +25,6 @@ website: ""
 I have a B.Eng. and a M.Eng. in the field of ME. I have several years of work experience in AI, specializing in LLMs, Language Agents and Multimodality.
 
 Currently, I lead an exciting Multimodal Metahuman Project, specifically focusing on LLMs and Multimodality. I firmly believe that Embodied AI will shape the future. 
-
 (Last updated 2024-03-31)
-
-[<mark>Github<mark>](https://github.com/ariafyy)
 
 [<mark>Google Scholar<mark>](https://scholar.google.com.hk/citations?hl=en&tzom=-480&user=gpQ83ycAAAAJ&sortby=pubdate&view_op=list_works&authuser=1&gmla=AILGF5UJKLEnkNHSwgiGi_9zpqT-Twxjb0vL3wkS2dzR1LL_tOqaBEJQL0aH7VjRRkNrv193J7oB967S3_h5UO9H)
