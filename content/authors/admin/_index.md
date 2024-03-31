@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yaying Fei
+title:  Yaying Fei
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: Actively seeking 24Fall PhD position in USA!!!
 
 # # Organizations/Affiliations to show in About widget
 organizations:
-   - name:  CS, AI, NLP,LLMs
+  - name: CS, AI, NLP,LLMs
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include LLMs, Language Agents(Multi-Agents) and Multimodality.
