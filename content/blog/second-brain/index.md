@@ -1,17 +1,13 @@
 ---
-
 title: 🧠 AI Vtuber
 summary: Your virtual girlfriend or virtual assistant.
 date: 2024-01-01
-
 authors:
-  - admin
-    
+  - admin   
 tags:
   - LLMs
   - Multi-Agents
   - Embodied AI
-
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
