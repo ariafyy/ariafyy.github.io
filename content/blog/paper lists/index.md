@@ -5,19 +5,18 @@ date: 2024-03-30
 authors:
   - admin
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
-  
-authors:
-  - admin
 
 tags:
   - LLMs
   - Metahuman
+
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+ 
 ---
 
 
-## 👋 papers,code,demos...
+## papers,code,demos...
 
 -[**Google Scholar**](https://scholar.google.com.hk/citations?hl=en&tzom=-480&user=gpQ83ycAAAAJ&sortby=pubdate&view_op=list_works&authuser=1&gmla=AILGF5UJKLEnkNHSwgiGi_9zpqT-Twxjb0vL3wkS2dzR1LL_tOqaBEJQL0aH7VjRRkNrv193J7oB967S3_h5UO9H)
 
