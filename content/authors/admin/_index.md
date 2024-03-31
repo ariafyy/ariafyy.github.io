@@ -32,4 +32,4 @@ I have a B.Eng. and a M.Eng. in the field of ME. I have several years of work ex
 
 Currently, I lead an exciting Multimodal Metahuman Project, specifically focusing on LLMs and Multimodality. I firmly believe that Embodied AI will shape the future. 
 
-[Google Scholar](url: https://scholar.google.com.hk/citations?hl=en&tzom=-480&user=gpQ83ycAAAAJ&sortby=pubdate&view_op=list_works&authuser=1&gmla=AILGF5UJKLEnkNHSwgiGi_9zpqT-Twxjb0vL3wkS2dzR1LL_tOqaBEJQL0aH7VjRRkNrv193J7oB967S3_h5UO9H)
+-[<mark>Google Scholar<mark>](https://scholar.google.com.hk/citations?hl=en&tzom=-480&user=gpQ83ycAAAAJ&sortby=pubdate&view_op=list_works&authuser=1&gmla=AILGF5UJKLEnkNHSwgiGi_9zpqT-Twxjb0vL3wkS2dzR1LL_tOqaBEJQL0aH7VjRRkNrv193J7oB967S3_h5UO9H)
