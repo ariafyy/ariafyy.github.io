@@ -1,9 +1,12 @@
+# SITE SETUP
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
 # Appearance
 appearance:
   mode: system
   color: blue
-
-
 
 # SEO
 marketing:
@@ -11,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Hugo Blox Builder.'
+    description: ''
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -33,7 +36,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: ' '
+    notice: '© licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -55,4 +58,3 @@ features:
     url: 'https://github.com/HugoBlox/hugo-blox-builder/'
     content_dir: starters/blog/content
     branch: main
-
