@@ -25,9 +25,9 @@ image:
 
 
 - **ChatHaruhi**: Reviving Anime Character in Reality via **Large Language Model**
-  [📜paper](https://arxiv.org/abs/2308.09597)[🤖code](https://github.com/LC1332/Chat-Haruhi-Suzumiya)(**1.4k+ stars**)
+  [📜paper](https://arxiv.org/abs/2308.09597)[🤖code](https://github.com/LC1332/Chat-Haruhi-Suzumiya)(**1.5k+ stars**)
 
-- **InCharacter**: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews. [📜paper](https://arxiv.org/abs/2310.17976v3) [🔍link](https://incharacter.theirstory.cn/) submitted in **ACL’24**)
+- **InCharacter**: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews. [📜paper](https://arxiv.org/abs/2310.17976v3) [🔍link](https://incharacter.theirstory.cn/) 🎉🎉 accepted in **ACL’24** )
 
 
 - Does Role-Playing Chatbots Capture the Character Personalities?Assessing Personality Traits for Role-Playing Chatbots[📜paper](https://arxiv.org/abs/2310.17976v2) (code) 
